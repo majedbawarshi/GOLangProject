@@ -1,5 +1,4 @@
-# GO Language Project
-Go Language Library management system.
+# Go Language Library management system.
 
 project description:
 
